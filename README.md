@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Paramaguru A.S</h1>
 <h3 align="center">A Software Engineer from India, Innovating at the Intersection of Creativity and Code</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.-1TIDIjxYqexj3XbI0tLzAAAAA?w=214&h=180&c=7&r=0&o=5&pid=1.7">
