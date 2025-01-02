@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA using java, React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-099.web.app/](https://portfolio-099.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-099.web.app/](https://portfolio-nine-navy-20.vercel.app/)
 
 - 💬 Ask me about **React, java, sql**
 
